@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MH_PIPELINE_STEP1
+Comment=open the first step of the pipeline
+Exec=sh /home/analysis/Desktop/MH_pipeline/script/Run.sh
+Icon=/home/analysis/Desktop/MH_pipeline/img/DRG.png
+Terminal=true
+Type=Application
+
+Name[en_US]=STEP1

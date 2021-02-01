@@ -1,0 +1,25 @@
+Directions for running pipeline: 
+
+Make sure all your files are ready to be analyzed and contain only 1 image stack per file (they can be lifs or tifs) 
+
+Locate the folder containing your files
+
+right click and select open in terminal 
+
+type "pwd" and press ENTER to print the working directory 
+
+ctrl + ENTER to copy the folder directory
+
+
+
+1.) Double Click MH_Pipeline step 1 and paste the folder directory and hit ENTER
+2.) Double Click the MH_Pipeline_STEP2.ijm macro and select the folder directory 
+3.) Double click STEP 3 and paste the folder directory
+
+now you should have all your data in the project folder put together into 3 .csv sheets that you can go have fun with 
+there should also be a spread sheet with all three combined but IDK if it worked the last time I tried and didnt trouble shoot it so who knows!!!
+
+-Matt 
+Happy Thanksgiving Gilson! 
+did you kick me out hahaha
+Nops I was also kicked out too

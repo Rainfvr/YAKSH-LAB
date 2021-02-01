@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MH_PIPELINE_STEP1
+Comment=open the first step of the pipeline
+Exec=sh Desktop/MH_pipeline/script/step3.sh
+Icon=/home/analysis/Desktop/MH_pipeline/ignore/data.png
+Terminal=true
+Type=Application
+Name[en_US]=STEP 3
+Comment[en_US.UTF-8]=open the 3rd step of the pipeline

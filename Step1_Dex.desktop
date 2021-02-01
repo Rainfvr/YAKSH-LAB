@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MH_PIPELINE_STEP1
+Comment=open the first step of the pipeline
+Exec=sh /home/analysis/Desktop/MH_pipeline/script/Rundex.sh
+Icon=/home/analysis/Desktop/MH_pipeline/ignore/download.jpeg
+Terminal=true
+Type=Application
+Name[en_US]=Step1_Dex.desktop
+GenericName[en_US.UTF-8]=STEP1_Dextran
